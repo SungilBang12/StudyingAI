@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Include study documents even when globally ignored
+!*.md
+.DS_Store
