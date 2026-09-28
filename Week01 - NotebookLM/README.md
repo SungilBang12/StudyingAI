@@ -1,4 +1,6 @@
 # NotebookLM 시스템 분석을 위한 연구 목차와 질문
+진행 상황 중 시행착오와 현재 단계는 여기서 참고하여 주세요
+[네이버 블로그](https://blog.naver.com/cetanata)
 
 ## 목표
 
